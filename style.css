@@ -1,0 +1,8 @@
+.forecast-day {
+    margin: 1em 0;
+    padding: .5em;
+    color: white;
+    background-color: darkmagenta;
+  }
+
+  #forecast {display: flex;}
